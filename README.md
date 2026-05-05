@@ -20,7 +20,7 @@ How to Run
    pip install pillow
 
 2. Run the program:
-   python main.py
+   python encrypt.py
 
 3. Select an image file
 4. Enter a key (0–255)
